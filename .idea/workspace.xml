@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a39fd4f2-396b-4839-a0b5-f5c90eb40677" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiAutomation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/CustomResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/RequestBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiTests/CustomResTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiTests/PojoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiTests/ResponseJsonPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/singleStudentApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ApiRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/singleStudent.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/ApiAutomation.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/apiModels/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/apiModels/Company.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/apiModels/Contact.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/apiModels/CustomResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/apiModels/RequestBody.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/apiModels/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/apiTests/CustomResTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/apiTests/PojoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/apiTests/ResponseJsonPath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/runners/Runner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/singleStudent.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/steps/singleStudentApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ApiRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,58 +22,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/apiTests/PojoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/apiTests/ResponseJsonPath.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="84" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/apiTests/CustomResTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/apiModels/RequestBody.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/ApiRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-60">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="84" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,10 +34,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/HelloWorld.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/ApiRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="-60">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/resources/singleStudent.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
-              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -198,12 +119,13 @@
         <option value="$PROJECT_DIR$/src/test/java/steps/singleStudentApi.java" />
         <option value="$PROJECT_DIR$/src/test/java/runners/Runner.java" />
         <option value="$PROJECT_DIR$/src/test/java/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ghhh.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4101" />
-    <option name="y" value="123" />
+    <option name="x" value="991" />
+    <option name="y" value="107" />
     <option name="width" value="2293" />
     <option name="height" value="1976" />
   </component>
@@ -392,8 +314,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3959" y="56" width="1043" height="899" extended-state="0" />
-    <editor active="true" />
+    <frame x="451" y="49" width="1043" height="899" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -402,13 +323,13 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21985815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32987013" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32987013" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32987013" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32467532" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39740258" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39740258" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39951575" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -615,7 +536,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/apiTests/ResponseJsonPath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="84" />
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="84" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -645,7 +566,35 @@
     <entry file="file://$PROJECT_DIR$/src/test/resources/singleStudent.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ghhh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/forkOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hoooo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -656,13 +605,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
