@@ -37,6 +37,7 @@ public class singleStudentApi {
 
     }
 
+
     @Then("user should validate the right email")
     public void userShouldValidateTheRightEmail() {
     }

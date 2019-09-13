@@ -31,6 +31,7 @@ public class PojoTest {
         Student student1 = mapper.readValue(response.asString(), Student.class);
 
 
+
 }
 
 
